@@ -5,6 +5,9 @@ import '@leanix/reporting'
 /* global lx */
 Vue.prototype.$lx = lx
 
+/* global lx */
+Vue.prototype.$lx = lx
+
 
 Vue.config.productionTip = false
 
